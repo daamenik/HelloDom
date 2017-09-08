@@ -2,7 +2,7 @@
 
 int main(int argc, char** argv)
 {
-  printf("Dom Giandinoto");
+  printf("Dom Giandinoto and Cole McReynolds");
 
   return 0;
 }
