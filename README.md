@@ -1,2 +1,3 @@
-github.com/daamenik/HelloDom
-github.com/obstacole/Practice-Repository
+# Hello, Dom
+
+Prints my name
